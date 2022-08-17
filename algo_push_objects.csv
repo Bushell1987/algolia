@@ -1,0 +1,13 @@
+﻿objectID,product_id,object,value,datatype
+1,10,top_best_seller,True,boolean
+1,10,dwauto_frag_count,1,number
+1,10,dwauto_best_seller_cat,dresses,string
+1,10,dwauto_newness_and_last_7_days_highest_quantities,True,boolean
+2,20,top_best_seller,False,boolean
+2,20,dwauto_frag_count,0,number
+2,20,dwauto_best_seller_cat,shorts,string
+2,20,dwauto_newness_and_last_7_days_highest_quantities,False,boolean
+3,30,top_best_seller,False,boolean
+3,30,dwauto_frag_count,3,number
+3,30,dwauto_best_seller_cat,homeware,string
+3,30,dwauto_newness_and_last_7_days_highest_quantities,True,boolean
